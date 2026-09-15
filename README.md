@@ -2,6 +2,8 @@
 
 A fast, intuitive, and distraction-free web studio created specifically for screenwriters and scriptwriters. Write your movie, TV, or stage play with standard Hollywood formatting, smart keyboard shortcuts, live scene navigation, character analytics, and **100% free, unlimited, watermark-free industry-standard PDF export**.
 
+https://tirth31018-cmyk.github.io/Scriptcraft/
+
 ---
 
 ## 🚀 Quick Start
